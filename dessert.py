@@ -7,4 +7,4 @@ if has_dessert and not is_dieting:
 elif is_dieting:
     print("Only one bite")
 else:
-    print("No dessert today")
+    print("No dessert today and for the rest of your life!")
